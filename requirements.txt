@@ -1,0 +1,4 @@
+streamlit
+azure-ai-formrecognizer==3.2.1
+Pillow
+
